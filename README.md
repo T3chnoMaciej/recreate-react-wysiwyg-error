@@ -7,7 +7,7 @@ As you can see, typing works fine, so do the styles of text. However, the number
  - Firefox 120.0
  - Safari 15.6.1
 
- Let me know how things look on Windows or maybe pure React, wihtout Next.js
+Let me know how things look. Maybe the problem is caused by Next.js?
 
 Cheers,
 M

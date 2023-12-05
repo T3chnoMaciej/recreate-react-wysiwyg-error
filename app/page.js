@@ -18,7 +18,7 @@ export default function Home() {
           <NotesComponent />
         </div>
         <p>
-          Let me know how things look on Windows or maybe pure React, wihtout Next.js
+          Let me know how things look. Maybe the problem is caused by Next.js?
           <br></br>
           Cheers,
           M
